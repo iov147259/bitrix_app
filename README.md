@@ -4,9 +4,9 @@ Bitrix24 application
 ## Перед началом работы
 Перед началом работы необхадимо установить(если ещё не установлены) некоторые библиотеки :
 ```
-pip install fast_bitrix24
-pip install pandas
-pip install XlsxWriter
+ fast_bitrix24
+ pandas
+ XlsxWriter
 ```
 
 Также необходимо в той директории, в которой будет расположен скрипт разместить файл 	**webhook.txt**, в котором будет Ваш вебхук
